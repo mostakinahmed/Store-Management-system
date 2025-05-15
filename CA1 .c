@@ -4,7 +4,6 @@
 
 
 
-
 int main()
 {
      printf("\nWelcome to the Resturant: \n");
