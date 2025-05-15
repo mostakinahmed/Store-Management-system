@@ -12,7 +12,6 @@ int main()
          char burger[20]="Burger";
          char cold_drinks[20]="Cold Drinks";
 
-
          printf("\nMenu: \n");
          printf("\n 0 - pizza (250). \n 1 - Burger (220).\n 2 - Cold Drink (30). \n press 3 to exit.\n");
          printf("\n Enter the item number you want to buy: ");
